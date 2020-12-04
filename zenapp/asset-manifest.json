@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zenapp/static/css/main.713e00be.chunk.css",
+    "main.js": "/zenapp/static/js/main.49ac28d3.chunk.js",
+    "main.js.map": "/zenapp/static/js/main.49ac28d3.chunk.js.map",
+    "runtime-main.js": "/zenapp/static/js/runtime-main.2379a1d6.js",
+    "runtime-main.js.map": "/zenapp/static/js/runtime-main.2379a1d6.js.map",
+    "static/js/2.3e217575.chunk.js": "/zenapp/static/js/2.3e217575.chunk.js",
+    "static/js/2.3e217575.chunk.js.map": "/zenapp/static/js/2.3e217575.chunk.js.map",
+    "index.html": "/zenapp/index.html",
+    "precache-manifest.4f1c4e10320bc81e86a6d466b93862c6.js": "/zenapp/precache-manifest.4f1c4e10320bc81e86a6d466b93862c6.js",
+    "service-worker.js": "/zenapp/service-worker.js",
+    "static/css/main.713e00be.chunk.css.map": "/zenapp/static/css/main.713e00be.chunk.css.map",
+    "static/js/2.3e217575.chunk.js.LICENSE.txt": "/zenapp/static/js/2.3e217575.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2379a1d6.js",
+    "static/js/2.3e217575.chunk.js",
+    "static/css/main.713e00be.chunk.css",
+    "static/js/main.49ac28d3.chunk.js"
+  ]
+}
